@@ -1,6 +1,6 @@
 {
     "verbose": true,
-    "debug": false,
+    "debug": true,
     "checkCompleteInterval": 10,
     "checkCompleteTimeDiff": 300,
     "checkCompleteTimeout": 10000
